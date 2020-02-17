@@ -1,0 +1,14 @@
+/* custom gss goes here */
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+
+.tm-footer{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+	
+.tm-home-slideshow.uk-slideshow-fullscreen{
+	max-height: calc(100vh - 45px);
+}
